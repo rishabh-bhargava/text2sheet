@@ -1,0 +1,17 @@
+{
+  "ToCountry": "US",
+  "ToState": "AL",
+  "NumMedia": "0",
+  "ToCity": "HUNTSVILLE",
+  "FromZip": "",
+  "FromState": "CA",
+  "SmsStatus": "received",
+  "FromCity": "",
+  "Body": "60.0",
+  "FromCountry": "US",
+  "To": "%2B12562033333",
+  "ToZip": "35816",
+  "NumSegments": "1",
+  "From": "%2B16503086666",
+  "ApiVersion": "2010-04-01"
+}

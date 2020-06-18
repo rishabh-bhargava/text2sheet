@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+
+# Distribution / packaging
+dist/
+
+# Secrets / Private data
+gauth.json
+phone_numbers.json
+
+# Garbage OS files
+.DS_Store
