@@ -54,7 +54,7 @@ def handler(event, context):
     worksheet = sh.worksheet(sender_name)  # Worksheet name is the same as the sender name
 
     # Append a new row with just two columns
-    worksheet.append_row([msg_body, sf_date_as_string])
+    worksheet.append_row([sf_date_as_string, msg_body])
 
     # Return value to text back via Twilio
     return '<?xml version=\"1.0\" encoding=\"UTF-8\"?>'\
